@@ -1,0 +1,11 @@
+#small-misp-root.csv
+#Subair
+#Kirimow
+#12321260
+group,number,graph_name,edge_probability,duration,node_expansions
+Small,1,small-star.graphml,20,4665800,1
+Small,2,small-star.graphml,20,259600,1
+Small,3,small-hard-for-min-degree-greedy.graphml,20,192700,1
+Small,4,small-hard-for-min-degree-greedy.graphml,20,366700,1
+Small,5,small-hard-for-max-degree-vc-greedy.graphml,20,186000,1
+Small,6,small-hard-for-max-degree-vc-greedy.graphml,20,140200,1

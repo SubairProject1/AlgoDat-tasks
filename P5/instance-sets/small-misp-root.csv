@@ -1,0 +1,6 @@
+1,Small,small-star.graphml,20,root,fifo,lex,trivial,1,4,5
+2,Small,small-star.graphml,20,root,fifo,lex,hansen,1,4,4
+3,Small,small-hard-for-min-degree-greedy.graphml,20,root,fifo,lex,trivial,1,3,7
+4,Small,small-hard-for-min-degree-greedy.graphml,20,root,fifo,lex,hansen,1,3,4
+5,Small,small-hard-for-max-degree-vc-greedy.graphml,20,root,fifo,lex,trivial,1,4,9
+6,Small,small-hard-for-max-degree-vc-greedy.graphml,20,root,fifo,lex,hansen,1,4,7
