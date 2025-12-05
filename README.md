@@ -3,6 +3,8 @@ This repository contains three bonus programming tasks from the course Algorithm
 
 My implementation can be found in ```P4-6/src/main/java/exercise/StudentSolutionImplementation.java```.
 
+Programming Language used: Java.
+
 ## P4
 Reduction of the Clique problem to SAT and solving it via a SAT-solver, including building the DIMACS CNF and performing a binary search over k.
 
