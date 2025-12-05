@@ -1,6 +1,8 @@
 # AlgoDat-tasks
 This repository contains three bonus programming tasks from the course Algorithmen und Datenstrukturen (AlgoDat). Each task focuses on applying theoretical algorithmic concepts in practice—ranging from SAT reductions to exact optimization and heuristic search. All solutions were implemented independently and discussed orally as part of the assessment. The provided frameworks allow automated testing, and the results can be visualized through built-in plotting tools for performance and solution analysis.
 
+My implementation can be found in ```P4-6/src/main/java/exercise/StudentSolutionImplementation.java```.
+
 ## P4
 Reduction of the Clique problem to SAT and solving it via a SAT-solver, including building the DIMACS CNF and performing a binary search over k.
 
